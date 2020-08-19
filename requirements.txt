@@ -1,0 +1,4 @@
+seaborn==0.10.1
+numpy==1.19.0
+streamlit==0.63.0
+matplotlib==3.3.0
